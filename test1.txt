@@ -1,0 +1,11 @@
+ Volume in drive E has no label.
+ Volume Serial Number is 2816-8798
+
+ Directory of E:\Current_Working Stuff\Git working projects
+
+25-02-2018  23:39    <DIR>          .
+25-02-2018  23:39    <DIR>          ..
+25-02-2018  18:16                 0 sample1.txt
+25-02-2018  23:39                 0 test1.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  56,906,997,760 bytes free
