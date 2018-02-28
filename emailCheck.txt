@@ -1,1 +1,0 @@
-emailCheck.txt	sample1.txt  sample2.txt  test1.txt  test2.txt
